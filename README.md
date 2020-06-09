@@ -1,4 +1,4 @@
-# messenger
+# Facebook Messenger Clone (UI) Made with Flutter
 
 A new Flutter project.
 
