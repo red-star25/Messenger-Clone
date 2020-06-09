@@ -1,0 +1,94 @@
+[
+
+    {
+    "userName":"Jerin",
+    "userImage":"https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "subString" : "Where are you",
+    "time" : "8:19 am",
+    "online":true,
+    "unread":true
+    },
+ 
+    {
+       "userName":"Emma",
+       "userImage":"https://images.pexels.com/photos/374044/pexels-photo-374044.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+       "subString" : "ok",
+       "time" : "10:50 am",
+       "online":true,
+        "unread":false
+    },
+ 
+    {
+       "userName":"Noah",
+       "userImage":"https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+       "subString" : "We will meet tonight",
+       "time" : "10:10 am",
+       "online":false,
+    "unread":true
+    },
+ 
+    {
+       "userName":"Liam",
+       "userImage":"https://images.pexels.com/photos/594610/pexels-photo-594610.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+       "subString" : "I have sent the documents....",
+       "time" : "6:05 am",
+       "online":true,
+    "unread":false
+    },
+ 
+    {
+       "userName":"Sophia",
+       "userImage":"https://images.pexels.com/photos/247878/pexels-photo-247878.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+       "subString" : "golf",
+       "time" : "4:30 am",
+       "online":false,
+    "unread":true
+    },
+ 
+    {
+       "userName":"Isabella",
+       "userImage":"https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+       "subString" : "I'm busy",
+       "time" : "1:00 am",
+       "online":false,
+    "unread":false
+    },
+ 
+    {
+       "userName":"Jacob",
+       "userImage":"https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+       "subString" : "Bye",
+       "time" : "12:19 pm",
+       "online":false,
+    "unread":false
+    },
+ 
+    {
+       "userName":"William",
+       "userImage":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+       "subString" : "See you later",
+       "time" : "5:18 am",
+       "online":false,
+    "unread":false
+    },
+ 
+    {
+       "userName":"Emily",
+       "userImage":"https://images.pexels.com/photos/1689731/pexels-photo-1689731.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+       "subString" : "Let me know when you are free",
+       "time" : "10:10 pm",
+       "online":true,
+    "unread":false
+    },
+ 
+    {
+       "userName":"Daniel",
+       "userImage":"https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+       "subString" : "Yup",
+       "time" : "3:33 am",
+       "online":false,
+    "unread":false
+    }
+ 
+ 
+ ]
