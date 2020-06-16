@@ -2,15 +2,19 @@
 
 A new Flutter project.
 
-## Getting Started
+## Screenshot 📱
 
-This project is a starting point for a Flutter application.
+![](https://media-exp1.licdn.com/dms/image/C4D22AQEGX9TyxTy94g/feedshare-shrink_800/0?e=1595462400&v=beta&t=UG8QHYTBJ-M9BJ3bArpe1nOC46D8d5bj9AMBFBjpv9o)
+![](https://media-exp1.licdn.com/dms/image/C4D22AQGVHr27LKlNNg/feedshare-shrink_800/0?e=1595462400&v=beta&t=KIl1DLJEe56AWo9771nVXwwVnBpxMRnmxZ7ibMsc7HE)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Show some ❤️ and star the repo to support the project
+![](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+❤ Found this project useful?
+If you found this project useful, then please consider giving it a ⭐ on Github and sharing it with your friends via social media.
+
+### Linked Profile
+<p>
+<a href="https://www.linkedin.com/in/dhruv-nakum-4b1054176/"><img src="https://imageog.flaticon.com/icons/png/512/174/174857.png?size=100x100f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="Waller"></a>
+</p>
