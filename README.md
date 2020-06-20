@@ -14,7 +14,7 @@ A new Flutter project.
 ❤ Found this project useful?
 If you found this project useful, then please consider giving it a ⭐ on Github and sharing it with your friends via social media.
 
-### Linked Profile
+### LinkedIn Profile
 <p>
 <a href="https://www.linkedin.com/in/dhruv-nakum-4b1054176/"><img src="https://imageog.flaticon.com/icons/png/512/174/174857.png?size=100x100f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="Waller"></a>
 </p>
